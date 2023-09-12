@@ -6,7 +6,7 @@
 	<h3 style="color:red;"align="center">sunil sripathi</h3>
         <h4 style="color:red;"align="center">sunil sripathi</h4>
         <h5 style="color:red;font-size:50px;"align="center">varun sripathi</h5>
-	<h6 style="color:red;font-size:50px;"align="center">amulya sripathi</h6>
+	
         
 	
 	
