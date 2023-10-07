@@ -6,7 +6,7 @@
 	 <h2 style="color:blue;" align="center">hai hello my name isvarun</h2>
 	 <h2 style="color:blue;" align="center">hai hello my name is amulya</h2>
          <h2 style="color:blue;" align="center">hai hello my name is mahesh baBU</h2>
-         <h2 style="color:blue;" align="center">hai hello my name is mahesh baBU</h2>
+        
         
 	
 	
